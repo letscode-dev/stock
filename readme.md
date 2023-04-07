@@ -1,3 +1,3 @@
 ## Used
 
-- svg/gamepad.svg
+- svg / `gamepad.svg`
