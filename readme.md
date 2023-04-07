@@ -1,0 +1,3 @@
+# Used
+
+- svg/gamepad.svg
