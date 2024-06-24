@@ -1,5 +1,5 @@
-## JSON
+### JSON
 - https://raw.githubusercontent.com/letscode-dev/stock/main/json/guitar-catalog.json (used)
 
-## SVG
+### SVG
 - https://raw.githubusercontent.com/letscode-dev/stock/main/svg/gamepad.svg (used)
